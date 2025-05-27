@@ -1,0 +1,33 @@
+# Binaries and compiled files
+*.o
+*.ko
+*.so
+*.lo
+*.la
+*.ln
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.bin
+*.hex
+*.cprof
+
+# IDE specific files
+.vscode/
+.idea/
+*.xcodeproj/
+*.xcworkspace/
+
+# Build system files
+Makefile.bak
+CMakeCache.txt
+CMakeFiles/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
