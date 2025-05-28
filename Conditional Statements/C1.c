@@ -16,3 +16,6 @@ int main() {
 
     return 0;
 }
+// Author: Md. Mahmudul Hasan Sadi
+// Date: 2025-28-05
+// Description: This program checks if a number is positive or negative based on user input.
