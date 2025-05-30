@@ -1,4 +1,6 @@
 // Write a C program to determine whether a number is odd or even.
+
+
 #include <stdio.h>
 int main() {
     int number;

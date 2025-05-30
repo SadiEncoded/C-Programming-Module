@@ -1,5 +1,6 @@
 // Area of a triangle is given by the formula A = √(s(s-a)(s-b)(s-c)) where a, b, c are sides of the triangle and a + b + c = 25. Write a C program to compute the area of the triangle given the values of a, b, and c.
 
+
 #include <stdio.h>
 #include <math.h>
 int main() {
